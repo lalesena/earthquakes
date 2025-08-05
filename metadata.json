@@ -1,0 +1,6 @@
+{
+  "name": "GeoSphere Explorer",
+  "description": "An interactive 3D globe to explore recent earthquakes and active volcanoes around the world. Get AI-powered summaries for geological events.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
